@@ -8,7 +8,9 @@ However I would urge not to discriminate between geographies and include all ini
 
 Please contribute to improve quality and volume of the initiatives.
 
-# Meta Initiatives
+# Meta 
+
+A list of lists, umbrellas, ...
 
 |                                   |                                         |                                                                                                                                                                                                                                                                  |
 |-----------------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -18,9 +20,13 @@ Please contribute to improve quality and volume of the initiatives.
 | Sociale Innovatie Fabriek         | https://www.socialeinnovatiefabriek.be/ | Initiative to support breaking the social isolation of minority groups and others by the using of technological innovation                                                                                                                                       |
 | European Research Corona platform | https://bit.ly/3ajNHbr                  | The platform is a one-stop shop providing comprehensive information about funding opportunities in relation to Coronavirus at European Union and national level. You can find a list of tenders and projects relating to covid19 here.                           |
 |
-# Initiatives
+
+
+# Concrete
+
+A list of more concrete non-profit projects.
 
 |                           |                                         |                                                                                                                                                                                                                                                                  |
 |---------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | pillar.chat               | https://www.pillar.chat/                | An app to support caretakers in self-care and treatment of anxiety, etc. Pillar.chat is doing pro-bono work and is looking for contributors in many forms.                                                                                                       |
-| robovision.ai             | https://robovision.ai                   | Computer vision is eyed (puns are always intended) by many NGO's to automate tasks in the space of ecology, privacy-respecting security, medical... Robovision has many tools here and a large network for various industries.                                   |
+| robovision.ai             | https://robovision.ai                   | Computer vision is eyed (puns are always intended) by many NGO's to automate tasks in the space of ecology, privacy-respecting security, medical... Robovision has many tools here and actively partakes in non-profit work.                                   |
