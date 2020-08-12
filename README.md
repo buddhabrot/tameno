@@ -31,5 +31,5 @@ A list of more concrete non-profit projects.
 | pillar.chat               | https://www.pillar.chat/                | An app to support caretakers in self-care and treatment of anxiety, etc. Pillar.chat is doing pro-bono work and is looking for contributors in many forms.                                                                                                       |
 | robovision.ai             | https://robovision.ai                   | Computer vision is eyed (puns are always intended) by many NGO's to automate tasks in the space of ecology, privacy-respecting security, medical... Robovision has many tools here and actively partakes in non-profit work.                                 
 
-*為 is a japanese word signifying "intent", tameno is frequently added to nouns or verbs to signify the purpose of the resulting action
+*為 is a japanese word signifying "intent", tameno/ni can be added to nouns or verbs to signify the purpose of the resulting action
 *https://www.gwiznlp.com/wp-content/uploads/2014/08/Whats-the-opposite-of-meta.pdf
