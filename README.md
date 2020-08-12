@@ -1,8 +1,12 @@
 # tameno (為の)
 
-Looking for charity initiatives to chop up your skills as a software engineer? I was doing the same and will compile this list as I'm going through the search.
-Since I am located in Belgium the list may be geographically centered in this area. However I would urge not to discriminate between geographies and include all initiatives that support English speaking software engineers.
-Please contribute to improve quality of the list.
+Looking for charity initiatives to improve your skills as a software engineer, or just to help out others? After all, software is the ultimate way to scale problem solving!
+I was doing the same and will compile this list as I'm going through the search.
+
+Since I am located in Belgium the list will grow geographically centered in this area. 
+However I would urge not to discriminate between geographies and include all initiatives that support English speaking software engineers.
+
+Please contribute to improve quality and volume of the initiatives.
 
 # Meta Initiatives
 
