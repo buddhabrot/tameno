@@ -36,5 +36,5 @@ A list of more concrete non-profit projects.
 &nbsp;  
 &nbsp;  
 
-*為 is a japanese word signifying "intent", tameno/ni can be added to nouns or verbs to signify the purpose of the resulting action
+*為 is a japanese word signifying "intent", tameno/ni can be added to nouns or verbs to signify the purpose of the resulting action. 
 *https://www.gwiznlp.com/wp-content/uploads/2014/08/Whats-the-opposite-of-meta.pdf
