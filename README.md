@@ -21,7 +21,6 @@ A list of lists, umbrellas, ...
 | Open Knowledge BE                 | https://be.okfn.org/                    | Belgian chapter of Open Knowledge Foundation and an umbrella of open initiatives in Belgium.                                                                                                                                                                     |
 | Sociale Innovatie Fabriek         | https://www.socialeinnovatiefabriek.be/ | Initiative to support breaking the social isolation of minority groups and others through technological innovation                                                                                                                                       |
 | European Research Corona platform | https://bit.ly/3ajNHbr                  | The platform is a one-stop shop providing comprehensive information about funding opportunities in relation to Coronavirus at European Union and national level. You can find a list of tenders and projects relating to covid19 here.                           |
-|
 
 
 ## Mesa*
@@ -32,6 +31,10 @@ A list of more concrete non-profit projects.
 |---------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | pillar.chat               | https://www.pillar.chat/                | An app to support caretakers in self-care and treatment of anxiety, etc. Pillar.chat is doing pro-bono work and is looking for contributors in many forms.                                                                                                       |
 | robovision.ai             | https://robovision.ai                   | Computer vision is eyed (puns are always intended) by many NGO's to automate tasks in the space of ecology, privacy-respecting security, medical... Robovision has many tools here and actively partakes in non-profit work.                                 
+
+    
+&nbsp;  
+&nbsp;  
 
 *為 is a japanese word signifying "intent", tameno/ni can be added to nouns or verbs to signify the purpose of the resulting action
 *https://www.gwiznlp.com/wp-content/uploads/2014/08/Whats-the-opposite-of-meta.pdf
