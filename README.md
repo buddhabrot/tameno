@@ -1,5 +1,7 @@
 # tameno* (為の)
 
+## A (meta) list of non-profit/charity/ngo software projects.
+
 Looking for charity initiatives to improve your skills as a software engineer, or just to help out others? After all, software is the ultimate way to scale problem solving!
 I was doing the same and will compile this list as I'm going through the search.
 
@@ -8,7 +10,7 @@ However I would urge not to discriminate between geographies and include all ini
 
 Please contribute to improve quality and volume of the initiatives.
 
-# Meta 
+## Meta 
 
 A list of lists, umbrellas, ...
 
@@ -22,7 +24,7 @@ A list of lists, umbrellas, ...
 |
 
 
-# Mesa*
+## Mesa*
 
 A list of more concrete non-profit projects.
 
